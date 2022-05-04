@@ -22,10 +22,10 @@ How to use
     * -h --help                          show this screen
     * -v                                 process video file instead of image
                 
-    Ex: for single image input
+   Ex: for single image input
    >> python Vehicle_Detector.py C:/test.jpg D:/out.jpg
 
 
-    Ex: for video input
+   Ex: for video input
    >> python mVehicle_Detector.py -v C:/test.mp4 D:/out.mp4      
           
