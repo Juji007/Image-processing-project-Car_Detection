@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 How to use
 ---
-* first downlowd the image data required for car detection training https://www.kaggle.com/datasets/brsdincer/vehicle-detection-image-set
+* first download the image data required for car detection training https://www.kaggle.com/datasets/brsdincer/vehicle-detection-image-set
 and extract it in the code folder
 * run anaconda cmd and run Vechicale_Detector.py with the following args
 *  Usage:
