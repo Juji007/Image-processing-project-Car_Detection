@@ -21,8 +21,8 @@ and extract it in the code folder
 
     Options:
 
-    -h --help                               show this screen
-    -v                                 process video file instead of image
+    * -h --help                               show this screen
+    * -v                                 process video file instead of image
                 
     Ex: for single image input
     >> python Vehicle_Detector.py C:/test.jpg D:/out.jpg
